@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Guess the Word Game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="game-container">
+      <h1>Guess the Word</h1>
+      <p class="attempts">Attempts left: <span id="attempts">5</span></p>
+      <div class="word-container">
+        <!-- Dashes or letters will appear here -->
+        <span id="word-display">_ _ _ _ _</span>
+      </div>
+      <input type="text" id="letter-input" placeholder="Enter a letter" />
+      <div class="buttons">
+        <button id="pass-btn">Pass</button>
+        <button id="submit-btn">Submit</button>
+      </div>
+      <p id="feedback"></p>
+      <button id="show-answer">Show Answer</button>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>

@@ -23,7 +23,7 @@
 
 ## Screenshots
 
-![Game Screenshot](![Screenshot 2024-08-29 121139](https://github.com/user-attachments/assets/91e2a770-b32b-41e7-ba8a-f153a7f55fd9))
+(![Screenshot 2024-08-29 121139](https://github.com/user-attachments/assets/91e2a770-b32b-41e7-ba8a-f153a7f55fd9))
 
 ## Technologies Used
 
